@@ -91,7 +91,7 @@
 		268773EE712E0B0E518B8C05FAD9A835 /* Pods-MQTTClienttvOSTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MQTTClienttvOSTests.modulemap"; sourceTree = "<group>"; };
 		2690FC8B4F2A9F39BB32B1DC27219A65 /* Pods-MQTTClienttvOSTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MQTTClienttvOSTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		276A553DD80265CC1DD7C706F54A9DB3 /* Pods-MQTTClientiOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MQTTClientiOSTests-dummy.m"; sourceTree = "<group>"; };
-		2BDE6DEBFC7B3CCEC5826BC988C28478 /* Pods-MQTTClienttvOS */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MQTTClienttvOS"; path = Pods_MQTTClienttvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BDE6DEBFC7B3CCEC5826BC988C28478 /* Pods_MQTTClienttvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MQTTClienttvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FFAAC4BA7385DC61F97C1EBE920FC82 /* Pods-MQTTClientmacOSTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MQTTClientmacOSTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		32076C644D17AA7E7A1D7F1E0B7D3CAE /* Pods-MQTTClientmacOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MQTTClientmacOS-acknowledgements.markdown"; sourceTree = "<group>"; };
 		40CCC1C2E9D52C6E3DB00351B0B1E29B /* Pods-MQTTClientmacOSTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MQTTClientmacOSTests-umbrella.h"; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 		6662DA2F66B77CBD32D57A825222BA53 /* Pods-MQTTClientmacOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MQTTClientmacOS-acknowledgements.plist"; sourceTree = "<group>"; };
 		66E2B49FE919E0D9EF708D97CAC82CB8 /* Pods-MQTTClienttvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MQTTClienttvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		66E2B61DF13EAD8A339ADFF344B454B8 /* Pods-MQTTClientmacOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MQTTClientmacOS.debug.xcconfig"; sourceTree = "<group>"; };
-		66E65E10DC0D9E945FD01EF3DA020DB9 /* Pods-MQTTClientiOSTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MQTTClientiOSTests"; path = Pods_MQTTClientiOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		66E65E10DC0D9E945FD01EF3DA020DB9 /* Pods_MQTTClientiOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MQTTClientiOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66E80201F9E2A81D4AF7DA344A57F7C2 /* SocketRocket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SocketRocket.release.xcconfig; sourceTree = "<group>"; };
 		6735E3AB46B9D99CCBDD1886F2C73F6D /* Pods-MQTTClienttvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MQTTClienttvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		6B79E45DFF4725FD4A0FCE4858D44143 /* Pods-MQTTClienttvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MQTTClienttvOS.release.xcconfig"; sourceTree = "<group>"; };
@@ -115,7 +115,7 @@
 		783335BBA77CE3BED40F82A70250D107 /* SocketRocket-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SocketRocket-prefix.pch"; sourceTree = "<group>"; };
 		7ABAB7562D0623DFC2D01E0A09448472 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		7CB6704A70D55B80A3F7281F31BAE70C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		7F36AADAAD6D8359E96184906EA8C775 /* Pods-MQTTClientmacOS */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MQTTClientmacOS"; path = Pods_MQTTClientmacOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F36AADAAD6D8359E96184906EA8C775 /* Pods_MQTTClientmacOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MQTTClientmacOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		811666FBC93D5F468117372D03944992 /* SocketRocket.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SocketRocket.modulemap; sourceTree = "<group>"; };
 		814B71D6587E82E81DB7F19E197B5567 /* Pods-MQTTClienttvOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MQTTClienttvOS.modulemap"; sourceTree = "<group>"; };
 		83670A4972B101D85A1DADD0862004FF /* SRWebSocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SRWebSocket.h; path = SocketRocket/SRWebSocket.h; sourceTree = "<group>"; };
@@ -143,11 +143,11 @@
 		D59654B11448E196A17529DAAB4A7600 /* Pods-MQTTClientiOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MQTTClientiOS-dummy.m"; sourceTree = "<group>"; };
 		DA5AD411EC608715EEAE0E0257DD3FEE /* Pods-MQTTClientmacOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MQTTClientmacOS.modulemap"; sourceTree = "<group>"; };
 		DC5983B42236E709647CD381845BB06F /* Pods-MQTTClientiOSTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MQTTClientiOSTests.modulemap"; sourceTree = "<group>"; };
-		DEB54A01DDFE7E69161FFDE1CBFB79D3 /* Pods-MQTTClientmacOSTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MQTTClientmacOSTests"; path = Pods_MQTTClientmacOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEB54A01DDFE7E69161FFDE1CBFB79D3 /* Pods_MQTTClientmacOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MQTTClientmacOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7E9C50FBC10DF386B8C0C1225699F60 /* Pods-MQTTClientmacOSTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MQTTClientmacOSTests.modulemap"; sourceTree = "<group>"; };
 		F4BB500078F93946C3AB2BB7C33B5603 /* SocketRocket-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SocketRocket-dummy.m"; sourceTree = "<group>"; };
 		F5FEEBC18F29367FA726383C1E376EDD /* Pods-MQTTClientiOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MQTTClientiOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		F73C276785805B349F23EBD557E69F3E /* Pods-MQTTClienttvOSTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MQTTClienttvOSTests"; path = Pods_MQTTClienttvOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F73C276785805B349F23EBD557E69F3E /* Pods_MQTTClienttvOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MQTTClienttvOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD39433B22A4D93C46D9C1C3CC411B55 /* Pods-MQTTClienttvOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MQTTClienttvOS-dummy.m"; sourceTree = "<group>"; };
 		FF6BC35E321E78C8156ECE6F15F9A542 /* Pods-MQTTClientiOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MQTTClientiOS.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -377,11 +377,11 @@
 			isa = PBXGroup;
 			children = (
 				A67221B9E1F4E70558A24D7A7DA4F46C /* Pods_MQTTClientiOS.framework */,
-				66E65E10DC0D9E945FD01EF3DA020DB9 /* Pods-MQTTClientiOSTests */,
-				7F36AADAAD6D8359E96184906EA8C775 /* Pods-MQTTClientmacOS */,
-				DEB54A01DDFE7E69161FFDE1CBFB79D3 /* Pods-MQTTClientmacOSTests */,
-				2BDE6DEBFC7B3CCEC5826BC988C28478 /* Pods-MQTTClienttvOS */,
-				F73C276785805B349F23EBD557E69F3E /* Pods-MQTTClienttvOSTests */,
+				66E65E10DC0D9E945FD01EF3DA020DB9 /* Pods_MQTTClientiOSTests.framework */,
+				7F36AADAAD6D8359E96184906EA8C775 /* Pods_MQTTClientmacOS.framework */,
+				DEB54A01DDFE7E69161FFDE1CBFB79D3 /* Pods_MQTTClientmacOSTests.framework */,
+				2BDE6DEBFC7B3CCEC5826BC988C28478 /* Pods_MQTTClienttvOS.framework */,
+				F73C276785805B349F23EBD557E69F3E /* Pods_MQTTClienttvOSTests.framework */,
 				85A01882ED06DFEA2E0CE78BCDB204A7 /* SocketRocket.framework */,
 			);
 			name = Products;
@@ -517,7 +517,7 @@
 			);
 			name = "Pods-MQTTClientiOSTests";
 			productName = Pods_MQTTClientiOSTests;
-			productReference = 66E65E10DC0D9E945FD01EF3DA020DB9 /* Pods-MQTTClientiOSTests */;
+			productReference = 66E65E10DC0D9E945FD01EF3DA020DB9 /* Pods_MQTTClientiOSTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		85F26BFE7F225686B2FFD0CE203E310C /* Pods-MQTTClientmacOSTests */ = {
@@ -536,7 +536,7 @@
 			);
 			name = "Pods-MQTTClientmacOSTests";
 			productName = Pods_MQTTClientmacOSTests;
-			productReference = DEB54A01DDFE7E69161FFDE1CBFB79D3 /* Pods-MQTTClientmacOSTests */;
+			productReference = DEB54A01DDFE7E69161FFDE1CBFB79D3 /* Pods_MQTTClientmacOSTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		B2B6C91E1CAE614255C1EB9EB44605AB /* Pods-MQTTClientmacOS */ = {
@@ -555,7 +555,7 @@
 			);
 			name = "Pods-MQTTClientmacOS";
 			productName = Pods_MQTTClientmacOS;
-			productReference = 7F36AADAAD6D8359E96184906EA8C775 /* Pods-MQTTClientmacOS */;
+			productReference = 7F36AADAAD6D8359E96184906EA8C775 /* Pods_MQTTClientmacOS.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		B4AECF62CBD8902496DA210033973A28 /* Pods-MQTTClienttvOS */ = {
@@ -574,7 +574,7 @@
 			);
 			name = "Pods-MQTTClienttvOS";
 			productName = Pods_MQTTClienttvOS;
-			productReference = 2BDE6DEBFC7B3CCEC5826BC988C28478 /* Pods-MQTTClienttvOS */;
+			productReference = 2BDE6DEBFC7B3CCEC5826BC988C28478 /* Pods_MQTTClienttvOS.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		C6F1DD1EF1503E5F7B7C82A35EA9EC78 /* Pods-MQTTClienttvOSTests */ = {
@@ -593,7 +593,7 @@
 			);
 			name = "Pods-MQTTClienttvOSTests";
 			productName = Pods_MQTTClienttvOSTests;
-			productReference = F73C276785805B349F23EBD557E69F3E /* Pods-MQTTClienttvOSTests */;
+			productReference = F73C276785805B349F23EBD557E69F3E /* Pods_MQTTClienttvOSTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -937,7 +937,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-MQTTClientiOS/Pods-MQTTClientiOS-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MQTTClientiOS/Pods-MQTTClientiOS.modulemap";
@@ -971,7 +971,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-MQTTClientiOS/Pods-MQTTClientiOS-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MQTTClientiOS/Pods-MQTTClientiOS.modulemap";
